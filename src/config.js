@@ -1,12 +1,12 @@
-const SERVE = false; // 是否使用线上服务器
+const SERVE = true; // 是否使用线上服务器
 
-const HOST = "https://esunr.xyz:8080/api/esunrIndex"; // 线上服务器地址，如果不使用请留空
+const HOST = "152.32.133.100"; // 线上服务器地址，如果不使用请留空
 
-const BLOG_NAME = "我的博客"; // 个人网站名字
+const BLOG_NAME = "栀子花"; // 个人网站名字
 
-const BLOG_URL = "https://blog.esunr.xyz"; // 个人网站链接（请填写完整链接）
+const BLOG_URL = "https://gardenia-d.com"; // 个人网站链接（请填写完整链接）
 
-const GITHUB = "https://github.com/EsunR"; // 右上角 Github 图标链接，留空不显示
+const GITHUB = ""; // 右上角 Github 图标链接，留空不显示
 
 const BACKGROUND_IMG_URL = "https://api.dujin.org/bing/1920.php"; // 背景图片url，默认为必应每日图片（第三方接口）
 
